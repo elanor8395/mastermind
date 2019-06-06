@@ -12,4 +12,4 @@ Once the coder has composed his/her code, the guesser makes a first attempt tryi
 - The number of digits that are present in the actual code, but they were guessed in the wrong position, with white pegs;
 - No hint about which digits are right or wrong is allowed: only about how many.
 
-If the guesser can guess right within the number of trys predetermined (usually 9) he/she win the game. Otherwise, the victory goes to the coder.
+If the guesser can guess right within the number of tries predetermined (usually 9) he/she win the game. Otherwise, the victory goes to the coder.
